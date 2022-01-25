@@ -1,0 +1,7 @@
+{
+    "path": "task1/2.jpg ", 
+    "outputs": { "object": [{ "name": "地图炮" }] },
+    "time_labeled": 20211211154631,
+    "labeled": true,
+    "size": { "width": 1880, "height": 1057, "depth": 3 }
+}

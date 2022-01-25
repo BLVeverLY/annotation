@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>#</folder>
+<filename>#</filename>
+<path>#</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>#</width>
+    <height>#</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>#</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <polygon>
+			<x1>0</x1>
+			<y1>0</y1>
+			<x2>#</x2>
+			<y2>#</y2>
+		</polygon>
+</object>
+</annotation>

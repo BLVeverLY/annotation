@@ -1,0 +1,7 @@
+{
+    "path": "task1/1.jpg ", 
+    "outputs": { "object": [{ "name": "地图" }] },
+    "time_labeled": 20211211154612,
+    "labeled": true,
+    "size": { "width": 1887, "height": 1063, "depth": 3 }
+}
